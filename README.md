@@ -81,3 +81,16 @@ Please cite `gym-tetris` if you use it in your research.
   howpublished = {\url{https://github.com/Kautenja/gym-tetris}},
 }
 ```
+action:
+0: none
+1: move left       
+2: move right            
+3: move down            
+4: rotate left
+5: rotate right
+6: move left+down
+7: move right+down
+8: mode left, rotate left
+9: move right, rotate right
+10: move right, rotate left
+11: move left, rotate right            
